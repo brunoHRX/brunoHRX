@@ -1,29 +1,62 @@
+<h3 align="left">🧠 Bruno Henrique | Data-Driven Engineer</h3>
 
+<p align="left">
+I build systems that connect data, processes, and real-world decisions.
 
-<h3 align="left">👩‍💻  My "Wanted" file</h3>
+Industrial Engineer with a strong foundation in data analysis, process optimization, and software development. 
+Currently working as an independent developer, delivering solutions for financial systems, business automation, and data-driven applications.
 
-<p align="left">I am Bruno, a versatile professional with a passion for active learning and multi-functional expertise. With 3 years of experience in direct management, I am a motivated manager who excels in process optimization. During an epidemic crisis, I successfully maintained and developed services for the public. As a Junior Front-End Developer, I am in continuous evolution, willing to learn new skills and contribute to the company's success. On the other hand, I am a Production Engineer with expertise in project management, data analysis, and programming. My soft skills and social constructs have enabled me to excel in various roles. I am a lover of technology, studies, and new experiences that promote my professional and social growth. With a high level of proficiency in software development, I am confident in my ability to deliver results in any team.
+My work sits at the intersection of <b>data + backend + real operations</b>:
+- Designing and building APIs and web systems (.NET, Next.js)
+- Working with data extraction, transformation, and analysis (SQL, Power BI, ETL)
+- Automating workflows and structuring scalable solutions for real business problems
+
+I have experience handling complex datasets, building internal tools, and creating systems that improve decision-making and operational efficiency.
+
+Currently exploring:
+⚡ Energy data & ESG  
+⚡ Data pipelines and large-scale processing  
+⚡ Backend architecture and system design  
+
+I like solving messy problems where data, systems, and reality collide.
+</p>
+
+---
+
+<h3 align="left">⚙️ Tech Stack</h3>
+
+<p align="left">
+💾 Data: SQL, Power BI, ETL, Excel (Power Query) <br>
+🧩 Backend: C# / .NET, APIs, integrations <br>
+🌐 Frontend: Next.js, React, Tailwind <br>
+🐍 Automation: Python (scripts, data handling) <br>
+🗄️ Databases: PostgreSQL, SQL Server, Oracle <br>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
 
 <div>
   <a href="https://github.com/brunoHRX">
-
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoHRX&layout=compact&langs_count=6&theme=slateorange"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Vamos ser sociais :)
- 
-<div> 
-  <a href="https://instagram.com/bruno.hx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/BrunoChamps" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrunoChamps"></a> 
-  <a href = "mailto:bruno.hrx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-henrique-rodrigues-4a74a4210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 
+---
+
+<h3 align="left">🌐 Let's connect</h3>
+
+<div> 
+  <a href="https://instagram.com/bruno.hx" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/BrunoChamps" target="_blank">
+    <img src="https://img.shields.io/twitter/url?logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrunoChamps">
+  </a> 
+  <a href="mailto:bruno.hrx@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-henrique-rodrigues-4a74a4210" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
