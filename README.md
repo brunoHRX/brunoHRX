@@ -35,21 +35,3 @@ I like solving messy problems where data, systems, and reality collide.
 
 ---
 
-
-
-<h3 align="left">🌐 Let's connect</h3>
-
-<div> 
-  <a href="https://instagram.com/bruno.hx" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://twitter.com/BrunoChamps" target="_blank">
-    <img src="https://img.shields.io/twitter/url?logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrunoChamps">
-  </a> 
-  <a href="mailto:bruno.hrx@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-henrique-rodrigues-4a74a4210" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
