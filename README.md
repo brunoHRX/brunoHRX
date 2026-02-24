@@ -1,4 +1,4 @@
-<h3 align="left">🧠 Bruno Henrique | Data-Driven Engineer</h3>
+<h3 align="left">🧠 Bruno Henrique | Engineer</h3>
 
 <p align="left">
 I build systems that connect data, processes, and real-world decisions.
@@ -35,14 +35,7 @@ I like solving messy problems where data, systems, and reality collide.
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
 
-<div>
-  <a href="https://github.com/brunoHRX">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoHRX&layout=compact&langs_count=6&theme=slateorange"/>
-</div>
-
----
 
 <h3 align="left">🌐 Let's connect</h3>
 
